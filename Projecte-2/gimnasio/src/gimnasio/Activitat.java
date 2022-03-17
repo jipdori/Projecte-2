@@ -1,0 +1,6 @@
+
+package gimnasio;
+
+class Activitat {
+    
+}
