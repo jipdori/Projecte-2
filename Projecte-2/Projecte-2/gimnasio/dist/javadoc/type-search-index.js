@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"gimnasio","l":"Client"},{"p":"gimnasio","l":"CompteBancari"},{"p":"gimnasio","l":"Connexiobd"},{"p":"gimnasio","l":"CorreuElectronic"},{"p":"gimnasio","l":"Gimnas"},{"p":"gimnasio","l":"Gimnasio"},{"p":"gimnasio","l":"Telefon"}];updateSearchResults();
