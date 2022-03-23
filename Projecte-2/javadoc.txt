@@ -1,0 +1,5 @@
+Direcció Javadoc
+
+gimnasio > dist > javadoc > gimnasio > package-summary.html
+
+C:\Users\DAM\Downloads\Projecte-2\gimnasio\dist\javadoc\gimnasio\package-summary.html
